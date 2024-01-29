@@ -8,4 +8,4 @@ is the C language code of the game
 ### 2- main.exe
 is the exe file of the game
 ### 3- parameters.xml
-is the xml file of the parameters
+is the xml file of the parameters(width- height- top player)
