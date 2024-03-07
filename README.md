@@ -18,8 +18,5 @@ is the xml file of the parameters(width- height- top player)
 # Signal Flow Graphs 
 ### HOW TO USE:
 1. Verify the presence of Node.js on your system.
-2. Install Konva by executing the command "npm install konva."
-3. Refer to the instructions presented in the video located at <u>https://youtu.be/oZ9zlS5V5WU?si=InTS7mkzr9HYSqLQ</u> to incorporate Bootstrap into your Vue project.
-4. Utilize the command "npm i serve" to install the requisite modules.
-5. Initiate the backend execution before running the frontend.
-6. Launch the front end using the command "npm run serve."
+2. Utilize the command "npm i serve" to install the requisite modules.
+3. Launch the front end using the command "npm run serve."
