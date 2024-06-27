@@ -14,6 +14,14 @@ is the xml file of the parameters(width- height- top player)
 <u>https://drive.google.com/drive/folders/1ROUL7hbz6P6fkFX3q3stheTJHB8dhuA1?usp=sharing<u>
 
 
+# Maze Solver
+### HOW TO USE:
+1. Download the project and run it.
+2. Specify the path to your maze file (there are two test cases: one with a solution and one without).
+3. Choose the solving method: BFS or DFS.   
+
+## video link
+
 
 # Signal Flow Graphs 
 ### HOW TO USE:
