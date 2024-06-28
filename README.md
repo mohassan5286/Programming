@@ -45,3 +45,11 @@ is the xml file of the parameters(width- height- top player)
 3. Launch the front end using the command "npm run serve."
 
 ## video link
+
+<br>
+<br>
+
+# COVID-19 Predictor 
+### HOW TO USE:
+
+## video link
