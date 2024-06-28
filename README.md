@@ -19,7 +19,6 @@ is the xml file of the parameters(width- height- top player)
 
 <br>
 <br>
-<br>
 
 # Maze Solver
 ### HOW TO USE:
@@ -33,7 +32,6 @@ is the xml file of the parameters(width- height- top player)
 
 <br>
 <br>
-<br>
 
 # Equation Solver (Direct Methods and Indirect Methods)
 ### HOW TO USE:
@@ -42,7 +40,6 @@ is the xml file of the parameters(width- height- top player)
 
 ## video link
 
-<br>
 <br>
 <br>
 
