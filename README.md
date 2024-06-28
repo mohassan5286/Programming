@@ -12,8 +12,6 @@ is the exe file of the game
 ### 3- parameters.xml
 is the xml file of the parameters(width- height- top player)
 
-<br>
-
 ## video link
 <u>https://drive.google.com/drive/folders/1ROUL7hbz6P6fkFX3q3stheTJHB8dhuA1?usp=sharing<u>
 
@@ -26,8 +24,6 @@ is the xml file of the parameters(width- height- top player)
 2. Specify the path to your maze file (there are two test cases: one with a solution and one without).
 3. Choose the solving method: BFS or DFS.   
 
-<br>
-
 ## video link
 <u>https://drive.google.com/drive/folders/1YW5m8MVvqA6iMC0Q52VzLqY8sRILkLI6?usp=sharing<u>
 
@@ -36,8 +32,6 @@ is the xml file of the parameters(width- height- top player)
 
 # Equation Solver (Direct Methods and Indirect Methods)
 ### HOW TO USE:
-
-<br>
 
 ## video link
 
@@ -49,7 +43,5 @@ is the xml file of the parameters(width- height- top player)
 1. Verify the presence of Node.js on your system.
 2. Utilize the command "npm i serve" to install the requisite modules.
 3. Launch the front end using the command "npm run serve."
-
-<br>
 
 ## video link
