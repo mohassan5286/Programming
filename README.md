@@ -16,7 +16,6 @@ is the xml file of the parameters(width- height- top player)
 <br>
 <br>
 <br>
-<br>
 
 # Maze Solver
 ### HOW TO USE:
@@ -26,9 +25,23 @@ is the xml file of the parameters(width- height- top player)
 
 ## video link
 
+<br>
+<br>
+<br>
+
+# Equation Solver (Direct Methods and Indirect Methods)
+### HOW TO USE:
+
+## video link
+
+<br>
+<br>
+<br>
 
 # Signal Flow Graphs 
 ### HOW TO USE:
 1. Verify the presence of Node.js on your system.
 2. Utilize the command "npm i serve" to install the requisite modules.
 3. Launch the front end using the command "npm run serve."
+
+## video link
