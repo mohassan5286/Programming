@@ -30,7 +30,7 @@ is the xml file of the parameters(width- height- top player)
 <br>
 <br>
 
-# CSED HUB 
+# Studiando 
 ### HOW TO USE:
 
 ## video link
