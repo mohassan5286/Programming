@@ -30,7 +30,7 @@ is the xml file of the parameters(width- height- top player)
 <br>
 <br>
 
-# Equation Solver (Direct Methods and Indirect Methods)
+# CSED HUB 
 ### HOW TO USE:
 
 ## video link
@@ -38,7 +38,7 @@ is the xml file of the parameters(width- height- top player)
 <br>
 <br>
 
-# CSED HUB 
+# Equation Solver (Direct Methods and Indirect Methods)
 ### HOW TO USE:
 
 ## video link
