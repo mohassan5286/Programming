@@ -57,6 +57,14 @@ is the xml file of the parameters(width- height- top player)
 <br>
 <br>
 
+# Routh criteria
+### HOW TO USE:
+
+## video link
+
+<br>
+<br>
+
 # COVID-19 Predictor 
 ### HOW TO USE:
 
