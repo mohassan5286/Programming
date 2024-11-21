@@ -3,7 +3,7 @@ This repository encompasses a programming project that I have meticulously devel
 
 <br>
 
-# Connect four game
+# 1. Connect four game
 ## it contains three files:
 ### 1- main.c
 is the C language code of the game
@@ -18,7 +18,7 @@ is the xml file of the parameters(width- height- top player)
 <br>
 <br>
 
-# Maze Solver
+# 2. Maze Solver
 ### HOW TO USE:
 1. Download the project and run it.
 2. Specify the path to your maze file (there are two test cases: one with a solution and one without).
@@ -30,7 +30,7 @@ is the xml file of the parameters(width- height- top player)
 <br>
 <br>
 
-# Studiando 
+# 3. Equation Solver (Direct Methods and Indirect Methods)
 ### HOW TO USE:
 
 ## video link
@@ -38,15 +38,7 @@ is the xml file of the parameters(width- height- top player)
 <br>
 <br>
 
-# Equation Solver (Direct Methods and Indirect Methods)
-### HOW TO USE:
-
-## video link
-
-<br>
-<br>
-
-# Signal Flow Graphs 
+# 4. Signal Flow Graphs 
 ### HOW TO USE:
 1. Verify the presence of Node.js on your system.
 2. Utilize the command "npm i serve" to install the requisite modules.
@@ -64,8 +56,3 @@ is the xml file of the parameters(width- height- top player)
 
 <br>
 <br>
-
-# COVID-19 Predictor 
-### HOW TO USE:
-
-## video link
