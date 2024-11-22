@@ -46,23 +46,7 @@ This project implements an **Equation Solver** that uses **Numerical Methods** t
 
 ---
 
-## 4. Signal Flow Graphs
-
-This project works with **Signal Flow Graphs**, which are used for system analysis and control systems.
-
-### How to Use:
-1. Ensure **Node.js** is installed on your system.
-2. Install the necessary modules by running the command:  
-   `npm i serve`
-3. Start the frontend application with:  
-   `npm run serve`
-
-### Demo Video:
-(Coming soon)
-
----
-
-## 5. Routh-Hurwitz Criteria
+## 4. Routh-Hurwitz Criteria
 
 This project implements the **Routh-Hurwitz Criteria**, used to determine the stability of a control system.
 
