@@ -1,0 +1,96 @@
+QWidget {
+    background-color: #333;
+}
+
+QScrollArea {
+    background-color: #333;
+}
+
+QPushButton {
+    background-color: yellow;
+    color: black;
+    border: none;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 45px;
+    
+    margin: 6px 3px;
+}
+
+QPushButton#smallLabel {
+    background-color: yellow;
+    color: black;
+    border: none;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    
+    margin: 6px 3px;
+}
+
+QPushButton:hover {
+    background-color: #b5a908;
+}
+
+QPushButtonsmallLabel:hover {
+    background-color: #b5a908;
+}
+
+QComboBox {
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    padding: 8px;
+    font-size: 35px;
+    margin: 6px 3px;
+    selection-background-color: #555;
+}
+
+
+QLabel#bigLabel {
+    color: white;
+    font-size: 45px;
+    margin: 6px 3px;
+}
+
+QLabel#smallLabel{
+    color: white;
+    font-size: 20px;
+    margin: 6px 3px;
+}
+
+
+QLineEdit {
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    padding: 8px;
+    font-size: 20px;
+    margin: 6px 3px;
+}
+
+
+QScrollArea {
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    padding: 8px;
+    font-size: 20px;
+    margin: .5px .5px;
+}
+
+
+QMessageBox {
+    background-color: gray;
+    color: white;
+    border: 1px solid white;
+    padding: 8px;
+    font-size: 20px;
+    margin: .5px .5px;
+}
+
+
+
+
